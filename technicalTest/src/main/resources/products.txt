@@ -1,3 +1,7 @@
 Product code	Description 	Price
-12345			Coke			12.12
-1234			Pepsi			13.12	HALF PRICE
+12345			Coke			1.30	2 for 1.50
+1234			Juice			1.30
+1230			Pepsi			1.00	Half price
+123H			Fruit			0.80	Half price
+HGS1			Ice cream		2.16	
+BND1			Water			0.60	3 for 1.20
