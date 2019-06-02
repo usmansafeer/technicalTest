@@ -10,7 +10,7 @@ public class Main {
 
 	public static void main(String[] args) {
 
-		System.out.println("Store");
+		System.out.println("*** Store ***");
 		Scanner enter = new Scanner(System.in);
 
 		
